@@ -3,3 +3,4 @@ document.addEventListener('DOMContentLoaded', () => {
 })
 
 // Added package json
+// JS comment
